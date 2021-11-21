@@ -1,0 +1,12 @@
+.App {
+  max-width: 1024px;
+  padding: 20px;
+  margin: auto;
+}
+.Users_Card {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}

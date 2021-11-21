@@ -1,0 +1,36 @@
+.Card__Root {
+  padding: 30px;
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  outline: #d0d0d0;
+  width: 300px;
+  text-align: center;
+  margin: 1rem;
+}
+.Card__Image img {
+  border-radius: 10px;
+}
+.Card__Text {
+  margin-top: 1.2rem;
+}
+.Card__Text a {
+  font-size: 16px;
+  text-decoration: none;
+  color: var(--primary);
+}
+.Card__Button {
+  outline: none;
+  margin-top: 1.2rem;
+  border: 0;
+  padding: 10px 20px;
+}
+.Button-Danger {
+  background-color: red;
+  margin-right: 5px;
+  color: #fff;
+}
+.Button-Success {
+  background-color: green;
+  margin-left: 5px;
+  color: #fff;
+}
