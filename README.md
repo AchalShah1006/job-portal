@@ -18,3 +18,6 @@ npm i axios
 npm i react-router-dom
 
 ```
+
+### Live Preview
+https://achalshah1006.github.io/job-portal/
